@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! Niko aka. PrintN</h1>
+<h1 align="center">Hello World! I'm Niko aka. PrintN</h1>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 <div align="center">
-  <h2>Languages and tools</h2>
+  <h2>Languages and tools 🛠️</h2>
 </div>
 
 <div align="center">
