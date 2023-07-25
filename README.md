@@ -1,4 +1,4 @@
-<h2 align="center">Hello World! Niko aka. PrintN</h2>
+<h1 align="center">Hello World! Niko aka. PrintN</h1>
 
 ###
 
@@ -8,6 +8,9 @@
 </div>
 
 ###
+<div align="center">
+  <h2>Languages and tools</h2>
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -26,7 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
 ###
@@ -34,7 +36,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="244" src="https://giphy.com/gifs/producthunt-mind-blown-blow-your-26ufdipQqU2lhNA4g"  />
+  <h2>My Socials</h2>
 </div>
 
 ###
