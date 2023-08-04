@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Niko aka. PrintN</h1>
-
+<p>- 🔭 I’m currently working on **a stock screener**</p>
 ###
 
 <div align="center">
