@@ -41,7 +41,8 @@
 </div>
 
 <div align="center">
-  <a src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" href="https://twitter.com" target="_blank" >
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" href="" target="_blank" />
-  <a href="https://www.youtube.com/channel/UCs1ZHV-KDxsU1q7eBy7xCUA" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="printn" height="30" width="40" /></a>
+  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCs1ZHV-KDxsU1q7eBy7xCUA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="printn" height="30" width="40" /></a>
+<a href="https://discord.gg/4324324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4324324" height="30" width="40" /></a>
+
 </div>
