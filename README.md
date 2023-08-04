@@ -1,5 +1,14 @@
-<h1 align="center">Hello World! I'm Niko aka. PrintN</h1>
-<p>🔭 I’m currently working on a stock screener</p>
+<div>
+  <h1 align="center">Hello World! I'm Niko aka. PrintN</h1>
+  <p align="center">🔭 I’m currently working on a stock screener and portifolio maker</p>
+</div>
+
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
 <div align="center">
   <img src="https://media0.giphy.com/media/AF7lbthr7cTYI/giphy.gif?cid=ecf05e47qg16k09feyq0uqfbj5sgk97janiteubxdyhz33ss&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 </div>
@@ -26,9 +35,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  
-  <br clear="both">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrintN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<br clear="both">  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrintN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150"   alt="languages graph"  />
 </div>
 
 <div align="center">
