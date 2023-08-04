@@ -41,9 +41,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" href="https://twitter.com" target="_blank" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" href="" target="_blank" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" href="https://www.youtube.com/channel/UCs1ZHV-KDxsU1q7eBy7xCUA" target="_blank" />
+  <a src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" href="https://twitter.com" target="_blank" >
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" href="" target="_blank" />
+  <a href="https://www.youtube.com/channel/UCs1ZHV-KDxsU1q7eBy7xCUA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="printn" height="30" width="40" /></a>
 </div>
-
-###
