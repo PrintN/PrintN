@@ -41,8 +41,6 @@
 </div>
 
 <div align="center">
-  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com" height="50" width="60" /></a>
-<a href="https://www.youtube.com/channel/UCs1ZHV-KDxsU1q7eBy7xCUA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="printn" height="50" width="60" /></a>
-<a href="https://discord.gg/4324324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4324324" height="50" width="60" /></a>
-
+  <a href="https://twitter.com/PrintNiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com" height="50" width="60" /></a>
+<a href="https://www.youtube.com/@printn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="printn" height="50" width="60" /></a>
 </div>
