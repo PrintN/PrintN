@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hello World! I'm Niko aka. PrintN</h1>
-  <p align="center">🔭 I’m currently working on a stock screener and a stock portfolio maker</p>
+  <p align="center">🔭 I’m currently working on a video downloader and a CS2 cheat</p>
 </div>
 
 <div align="center">
