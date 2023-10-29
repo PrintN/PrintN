@@ -35,12 +35,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrintN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150"   alt="languages graph"  />
 </div>
-
-<div align="center">
-  <h2>My Socials</h2>
-</div>
-
-<div align="center">
-  <a href="https://twitter.com/PrintNiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com" height="50" width="60" /></a>
-<a href="https://www.youtube.com/@printn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="printn" height="50" width="60" /></a>
-</div>
