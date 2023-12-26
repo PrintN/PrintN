@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hello World! I'm Niko aka. PrintN</h1>
-  <p align="center">🔭 I’m currently working on a video downloader and a CS2 cheat</p>
+  <p align="center">🔭 I’m currently working on a tool website and an advanced Typeracer cheat</p>
 </div>
 
 <div align="center">
