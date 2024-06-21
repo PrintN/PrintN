@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hello World! I'm Niko aka. PrintN</h1>
-  <p align="center">🔭 I’m currently working on a tool website (<a href="https://knowyourtool.com" target=_blank>knowyourtool.com</a>)</p>
+  <p align="center">🔭 I’m currently working on a productivity app.</p>
 </div>
 
 <div align="center">
