@@ -35,6 +35,8 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" title="WordPress" />
 <img width="12" />
+<img src="https://vectorwiki.com/images/qXZW6__hostinger.svg" height="40" alt="hostinger logo" title="Hostinger" />
+<img width="12" />
 <img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" height="40" alt="stripe logo" title="Stripe" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="40" alt="tauri logo" title="Tauri" />
@@ -44,6 +46,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40" alt="blender logo" title="Blender" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud logo" title="Google Cloud" />
 <img width="12" />
 </div>
 
