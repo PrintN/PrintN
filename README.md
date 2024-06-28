@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Hello World! I'm Niko aka. PrintN</h1>
-  <p align="center">🔭 I’m currently working on a productivity app.</p>
+  <h1 align="center">👋 Hello World! I'm Niko aka. PrintN</h1>
+  <p align="center">🔭 I’m currently working on a <a href="https://github.com/PrintN/All-In-One-Productivity" target="_blank">productivity app</a>.</p>
 </div>
 
 <div align="center">
@@ -57,3 +57,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrintN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150"   alt="languages graph"  />
 </div>
+
+<h1 align="center">Learn more about me <a href="https://printn.github.io" target="_blank">here</a></h1>
