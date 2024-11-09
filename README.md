@@ -1,5 +1,5 @@
-## Hello World! I'm PrintN 👋 
-### Currently learning reverse engineering and C++ 🔭
+## Hi! I'm PrintN 👋 
+### I like to build stuff and I also like playing ctfs :)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@PrintN42)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoWidth=10&width=80)](https://printn.github.io)
