@@ -1,11 +1,11 @@
 ## Hi! I'm PrintN 👋 
 ### I like to build stuff and I also like playing ctfs :)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@PrintN42)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoWidth=10&width=80)](https://printn.github.io)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/PrintN42)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/PrintN)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=TryHackMe&logoColor=#d16c06)](https://leetcode.com/u/PrintN)
+[![YouTube](https://img.shields.io/badge/YouTube-000000.svg?style=for-the-badge&logo=YouTube)](https://youtube.com/@PrintN42)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=jekyll)](https://printn.github.io)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/PrintN42)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/PrintN)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=TryHackMe)](https://tryhackme.com/r/p/PrintN)
 
 <img src="https://github-readme-stats.vercel.app/api?username=printn&show_icons=true&theme=dark" alt="PrintN's GitHub Stats" />
 
