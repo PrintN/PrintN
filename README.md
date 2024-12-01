@@ -3,7 +3,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-000000.svg?style=for-the-badge&logo=YouTube)](https://youtube.com/@PrintN42)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=jekyll)](https://printn.github.io)
-[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/PrintN42)
+[![Odysee](https://img.shields.io/badge/Odysee-000000.svg?style=for-the-badge&logo=Odysee&logoColor=white)](https://odysee.com/@PrintN)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/PrintN)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=TryHackMe)](https://tryhackme.com/r/p/PrintN)
 
