@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <h2>Hi! I'm PrintN 👋</h2>
     <h3>I program and play CTFs for fun.</h3>
     <a href="https://printn.github.io">
