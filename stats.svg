@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="180" xmlns="http://www.w3.org/2000/svg" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0d1117; border-radius: 12px;">
+  <rect width="100%" height="100%" fill="#0d1117" rx="12"/>
+  
+  <text x="24" y="44" fill="#58a6ff" font-size="28" font-weight="600">PrintN's GitHub Stats</text>
+  
+  <text x="24" y="84" fill="#8b949e" font-size="17">Total Stars Earned</text>
+  <text x="24" y="114" fill="#ffffff" font-size="32" font-weight="600">75</text>
+  
+  <text x="190" y="84" fill="#8b949e" font-size="17">Contributions (past year)</text>
+  <text x="190" y="114" fill="#ffffff" font-size="32" font-weight="600">473</text>
+  
+  <text x="380" y="84" fill="#8b949e" font-size="17">Pull Requests</text>
+  <text x="380" y="114" fill="#ffffff" font-size="32" font-weight="600">7</text>
+  
+  <text x="24" y="155" fill="#7c7c7c" font-size="14">Updated 2025-11-26 15:00 UTC</text>
+</svg>

@@ -19,5 +19,5 @@
 </div>
 
 <!--START_SECTION:stats-->
-![](./stats.svg)
+<img src="./stats.svg" alt="GitHub Stats"/>
 <!--END_SECTION:stats-->
