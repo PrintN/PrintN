@@ -29,7 +29,7 @@ PRS_CREATED=$(gh api graphql -f query='
     }
   }' -f user="$USERNAME" --jq '.data.user.pullRequests.totalCount')
 
-cat > stats.svg << EOF
+cat > assets/stats.svg << EOF
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="500" height="180" xmlns="http://www.w3.org/2000/svg" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0d1117; border-radius: 12px;">
   <rect width="100%" height="100%" fill="#0d1117" rx="12"/>
@@ -49,6 +49,6 @@ cat > stats.svg << EOF
 </svg>
 EOF
 
-sed -i '/<!--START_SECTION:stats-->/,/<!--END_SECTION:stats-->/c\<!--START_SECTION:stats-->\n<img src="./stats.svg" alt="GitHub Stats"/>\n<!--END_SECTION:stats-->' README.md
+sed -i '/<!--START_SECTION:stats-->/,/<!--END_SECTION:stats-->/c\<!--START_SECTION:stats-->\n<img src="assets/stats.svg" alt="GitHub Stats"/>\n<!--END_SECTION:stats-->' README.md
 
 echo "stats.svg generated and README updated"

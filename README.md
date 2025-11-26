@@ -16,8 +16,7 @@
     <a href="https://printn.github.io/donate">
         <img src="assets/donate.png" alt="Donate">
     </a>
+    <!--START_SECTION:stats-->
+    <img src="assets/stats.svg" alt="GitHub Stats"/>
+    <!--END_SECTION:stats-->
 </div>
-
-<!--START_SECTION:stats-->
-<img src="./stats.svg" alt="GitHub Stats"/>
-<!--END_SECTION:stats-->
