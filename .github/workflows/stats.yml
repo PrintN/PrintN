@@ -21,12 +21,12 @@ jobs:
           chmod +x .github/scripts/update-stats.sh
           .github/scripts/update-stats.sh
 
-      - name: Commit & push stats.svg + README.md if changed
+      - name: Commit & push stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add stats.svg README.md
+          git add assets/stats.svg README.md
           
           if git diff --staged --quiet; then
             echo "No changes to commit"
