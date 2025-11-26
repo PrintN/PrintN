@@ -9,17 +9,28 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Update GitHub Stats
-        run: .github/scripts/update-stats.sh
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate and update stats
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          chmod +x .github/scripts/update-stats.sh
+          .github/scripts/update-stats.sh
 
-      - name: Commit and push if changed
+      - name: Commit & push stats.svg + README.md if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats" && git push)
+          
+          git add stats.svg README.md
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update GitHub stats (auto)"
+            git push
+          fi
