@@ -1,4 +1,4 @@
-name: Weekly GitHub Stats Update
+name: GitHub Stats Update
 on:
   schedule:
     - cron: '0 0 */2 * *'
