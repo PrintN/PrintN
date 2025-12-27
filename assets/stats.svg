@@ -6,13 +6,13 @@
     <text x="24"  y="88" font-size="28" font-weight="600" fill="#ffffff">81</text>
     
     <text x="24"  y="122" font-size="17" fill="#8b949e">Total Commits (2025)</text>
-    <text x="24"  y="150" font-size="28" font-weight="600" fill="#ffffff">481</text>
+    <text x="24"  y="150" font-size="28" font-weight="600" fill="#ffffff">482</text>
     
     <text x="280" y="60"  font-size="17" fill="#8b949e">Pull Requests</text>
     <text x="280" y="88" font-size="28" font-weight="600" fill="#ffffff">7</text>
     
     <text x="280" y="122" font-size="17" fill="#8b949e">Issues Opened</text>
-    <text x="280" y="150" font-size="28" font-weight="600" fill="#ffffff">3</text>
+    <text x="280" y="150" font-size="28" font-weight="600" fill="#ffffff">4</text>
   </g>
   
   <g transform="translate(470,98)" font-family="Segoe UI, system-ui, sans-serif">
