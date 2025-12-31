@@ -6,7 +6,7 @@
     <a href="https://leetcode.com/u/PrintN"><img src="assets/leetcode.svg" alt="LeetCode"></a>
     <a href="https://tryhackme.com/r/p/PrintN"><img src="assets/leetcode.svg" alt="TryHackMe"></a>
     <a href="https://printn.github.io/donate"><img src="assets/donate.svg" alt="Donate"></a>
-    <!--START_SECTION:stats-->
-    <img src="./assets/stats.svg" alt="GitHub Stats"/>
-    <!--END_SECTION:stats-->
+<!--START_SECTION:stats-->
+<img src="./assets/stats.svg" alt="GitHub Stats"/>
+<!--END_SECTION:stats-->
 </div>
